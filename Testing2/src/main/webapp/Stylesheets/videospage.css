@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: blue;
+}
+
+.Header {
+	width: 100%; background-color: cyan; padding-left: 15px; padding-bottom: 30px; padding-top: 30px;
+}
+
+.Header h4 {
+	color: red; font-family: arial; font-size: 20px; display: inline; margin-left: 440px;
+}
+
+form {
+	display: inline; margin-left: 400px;
+}
+
+.body-container {
+	margin-top: 20px;
+}
+
+.iframe1 {
+	margin-left: 30px; margin-right: 50px;
+}
+
+.footer {
+	width: 100%; background-color: grey; height: 70px;
+}
+
+li {
+	display: inline-flex;
+}
+
+.item1 {
+	margin-top: 10px;
+	width: fit-content;
+}
+
+h5 {
+	text-align: center;
+	margin-left: 400px;
+}
+
+.item2 {
+	float: right;
+	margin-top: 20px;
+	margin-right: 10px;
+}
